@@ -1,0 +1,41 @@
+p {
+	color: rgb(58, 37, 7);
+}
+
+/*Colors*/
+
+/*Cozy sitting room*/
+.cozy {
+	border: 4px solid rgb(58, 37, 7);
+	font-family: 'Special Elite', cursive;
+}
+
+/*Light Vines*/
+.vine {
+	border: 4px solid rgb(245, 234, 198);
+	font-family: 'Sahitya', serif;
+}
+
+/*Mint Chrysanthemum*/
+.mint {
+	border: 4px solid rgb(183, 212, 165);
+	font-family: 'Suravaram', serif;
+}
+
+/*Oriental Waves*/
+.waves {
+	border: 4px solid rgb(215, 218, 248);
+	font-family: 'Quando', serif;
+}
+
+/*retro William Morris*/
+.retro {
+	border: 4px solid rgb(230, 208, 183);
+	font-family: 'Lustria', serif;
+}
+
+/*Dark Sakura*/
+.sakura {
+	border: 4px solid rgb(60, 12, 16);
+	font-family: 'Lancelot', cursive;
+}
